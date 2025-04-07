@@ -1,1 +1,6 @@
-
+{
+    "SoftwareVersion": "1.2",
+    "SoftwareUrl":"",
+    "Status":"True",
+    "Changelog":"test"
+}
